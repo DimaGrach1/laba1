@@ -4,7 +4,7 @@
  
  ![Image alt](https://github.com/DimaGrach1/laba1/blob/assets/1.jpg)
    
-2) С помощью команды `gedit script.bash` открыл только что созданный файл для редактирования и вписал в него необходимый скрипт. Сохранил файл и закрыл редактор текста gedit
+2) С помощью команды `gedit script.bash` открыл только что созданный файл для редактирования и вписал в него необходимый скрипт. Сохранил файл и закрыл текстовый редактор gedit
  
 ![Image alt](https://github.com/DimaGrach1/laba1/blob/assets/2.jpg)
 
