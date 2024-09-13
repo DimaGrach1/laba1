@@ -2,7 +2,7 @@
 
 1) Я перешел в директорию `Документы` и создал там каталог `laba1`, где, в свою очередь, создал файл `script.bash`
  
-   [!IMG](https://github.com/DimaGrach1/laba1/blob/3d6e0e77337be7ab46e2a70c4e73c65c89ecce21/1.jpg)
+   ![Image alt](https://github.com/DimaGrach1/laba1/blob/assets/1.jpg)
    
 2) С помощью команды `gedit script.bash` открыл только что созданный файл для редактирования и вписал в него необходимый скрипт. Сохранил файл и закрыл редактор текста gedit
  
